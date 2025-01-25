@@ -1,0 +1,5 @@
+﻿telegram;тг;tg;телеграм;telegram;телега;
+dzen;дзен;я.дзен;яндекс дзен;дз;dz;
+instagram;иг;ig;inst;insta;инст;инста;инстаграм;instagram;
+vkontakte;vkontakte;вконтакте;вк;vk;
+odnoklassniki;odnoklassniki;одноклассники;ок;ok;
